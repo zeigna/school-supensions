@@ -1,1 +1,1 @@
-# NYC School Suspensios Project
+# NYC School Suspensions Project
